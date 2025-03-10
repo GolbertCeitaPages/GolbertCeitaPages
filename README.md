@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GolbertCeitaPages
+- 👀 I’m interested in data analytics, python, sql
+- 🌱 I’m currently learning data science/machine learning
+- 📫 Reach me on discord at AcidicDragon
+- 😄 Pronouns: He/Him
