@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GolbertCeitaPages
 - 👀 I’m interested in data analytics, python, sql
-- 🌱 I’m currently learning data science/machine learning
-- 📫 Reach me on discord at AcidicDragon
+- 🌱 I’m studying Business IT & Management at the Rotterdam Business School (Next to Erasmus University)
+- 🌱 I’m primarly focusing on learning data science/machine for the time being, but by doing so I will increase my knowledge about SQL and Python as well.
+- 📫 Reach me on discord @ AcidicDragon or on LinkedIn @ Golbert Ceita Pagês
 - 😄 Pronouns: He/Him
