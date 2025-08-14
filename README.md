@@ -2,5 +2,5 @@
 - 👀 I’m interested in data analytics, python, sql
 - 🌱 I’m studying Business IT & Management at the Rotterdam Business School
 - 🌱 I’m primarly focusing on learning data skills.
-- 📫 Reach me on discord @ AcidicDragon or on LinkedIn @ Golbert Ceita Pagês
+- 📫 Reach me on LinkedIn @ Golbert Ceita Pagês
 - 😄 Pronouns: He/Him
